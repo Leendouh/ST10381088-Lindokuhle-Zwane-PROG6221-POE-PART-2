@@ -31,6 +31,7 @@
     
 **PART 2**
 These are the new updates for new implementation that were done to from POE Part 1:
+
 **Recipe Manager Application:**
 - Command-line application written in C# for managing recipes.
 - Allows users to enter new recipes, display all recipes, and calculate total calories.
