@@ -30,7 +30,7 @@
   - Users can exit the application when done managing recipes.
     
 **PART 2**
-These are the new updates for new implementation that were done to from POE Part 1:
+These are the new updates for new implementation that were done from POE Part 1:
 
 **Recipe Manager Application:**
 - Command-line application written in C# for managing recipes.
