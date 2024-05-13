@@ -1,4 +1,36 @@
 # [ST10381088]-[Lindokuhle Zwane]-PROG6221-PART-2
+**PART 1**
+- **Recipe Manager Application**:
+  - Command-line tool for organizing and managing recipes effectively.
+  - Features include creating, viewing, editing, and scaling recipes.
+  - Provides a simple and intuitive interface for user interaction.
+
+- **Enter a New Recipe**:
+  - Users can input recipe details, including ingredients and steps.
+  - Specify name, quantity, and unit of measurement for each ingredient.
+  - Describe each step in the recipe.
+
+- **Display Recipe**:
+  - View details of the currently entered recipe, including ingredients and steps.
+  - Prompts user to enter a recipe if none exists.
+
+- **Scale Recipe**:
+  - Adjust quantities of ingredients by a specified factor.
+  - Allows users to modify serving sizes as needed.
+
+- **Reset Recipe Scale**:
+  - Reverts ingredient quantities to original values.
+  - Useful for returning to the original serving size after scaling.
+
+- **Clear Recipe Data**:
+  - Removes all entered data for the current recipe.
+  - Enables starting a new recipe from scratch.
+
+- **Exit Application**:
+  - Users can exit the application when done managing recipes.
+    
+**PART 2**
+These are the new updates for new implementation that were done to from POE Part 1:
 **Recipe Manager Application:**
 - Command-line application written in C# for managing recipes.
 - Allows users to enter new recipes, display all recipes, and calculate total calories.
