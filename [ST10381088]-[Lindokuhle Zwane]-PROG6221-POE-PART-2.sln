@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeManager", "[ST10381088]-[Lindokuhle Zwane]-PROG6221-POE-PART-2\RecipeManager.csproj", "{D1912D98-E4F4-4462-8632-AB2F1C21362D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeTest", "RecipeTest\RecipeTest.csproj", "{5682146E-9D6E-4B27-9770-62A9F2DF64A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1912D98-E4F4-4462-8632-AB2F1C21362D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1912D98-E4F4-4462-8632-AB2F1C21362D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1912D98-E4F4-4462-8632-AB2F1C21362D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1912D98-E4F4-4462-8632-AB2F1C21362D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5682146E-9D6E-4B27-9770-62A9F2DF64A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5682146E-9D6E-4B27-9770-62A9F2DF64A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5682146E-9D6E-4B27-9770-62A9F2DF64A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5682146E-9D6E-4B27-9770-62A9F2DF64A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C653CF-611A-49C6-83C4-BEBD234657C0}
+	EndGlobalSection
+EndGlobal
